@@ -41,5 +41,9 @@ Even though I am happy with the scaling there are some things I would like to do
 I had a blast and I learned so much, not just how to do things but to google them, sorting through all the information and actually finding what you are looking for. Seeing an idea coming to live through all the stages is incredibly fulfilling and I cant wait to tackle the next project.
 
 
+## Live Version 
+http://tryggvi.surge.sh/
+
+
 
 
